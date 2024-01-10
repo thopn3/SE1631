@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TK2fOnz4GDxeJnsxqmzofqKWH18nD4HBweMVWABOdiY=",
+  "Source": "REST_API_TodosProject",
+  "BasePath": "_content/REST_API_TodosProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

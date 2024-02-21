@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oPjxfjISHYvsKc7rJHPAx1d10OKlypsEgggv6vJhUfM=",
+  "Source": "REST_API_NorthwindProject",
+  "BasePath": "_content/REST_API_NorthwindProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
